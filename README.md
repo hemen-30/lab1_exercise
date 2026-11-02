@@ -111,7 +111,7 @@ waiting for each result. If a goal does not succeed it logs the side and stops.
 The robot completed all four sides, each about 0.80 to 0.81 m, and the log ended with
 "Square finished".
 
-![rqt_graph while square.launch.py runs](screenshots/rqt_graph.png)
+![rqt_graph while square.launch.py runs](screenshots/rqt_graph.jpg)
 
 ## What did not work, and why I think so
 
