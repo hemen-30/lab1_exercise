@@ -24,6 +24,7 @@ setup(
     },
     entry_points={
         'console_scripts': [
+            'rotate_server = my_robot_nodes.rotate_server:main',
             'turn_away = my_robot_nodes.turn_away:main',
         ],
     },
